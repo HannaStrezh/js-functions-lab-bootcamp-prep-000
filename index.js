@@ -1,5 +1,5 @@
 function happyHolidaysTo () {
-  co "Happy holidays, " + `${name}` + "!";	
+  return "Happy holidays! "	
 }
  	 
  function sayHelloTo(firstName) {

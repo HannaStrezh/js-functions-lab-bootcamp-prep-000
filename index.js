@@ -1,5 +1,5 @@
-function happyHolidaysTo (string) {
-  return "Happy holidays, " + `${name}` + "!";	
+function happyHolidaysTo () {
+  co "Happy holidays, " + `${name}` + "!";	
 }
  	 
  function sayHelloTo(firstName) {
